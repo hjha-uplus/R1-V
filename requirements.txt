@@ -1,0 +1,6 @@
+wandb==0.18.3
+tensorboardx
+qwen_vl_utils
+torchvision
+flash-attn --no-build-isolation
+git+https://github.com/huggingface/transformers.git # correct deepspeed support
